@@ -1,0 +1,11 @@
+{% extends 'shopapp/base.html' %}
+{% block title %} Success {% endblock %}
+{% block body %}
+<div class="alert alert-success" role="alert">
+  Thanks for purchasing our product
+  <a
+      href="{% url 'shopapp:items-list' %}"
+      >Go to Products</a
+    >
+</div>
+{% endblock %}

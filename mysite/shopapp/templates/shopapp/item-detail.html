@@ -1,0 +1,20 @@
+{% extends 'shopapp/base.html' %}
+{% block title%}
+    {{ product.name }}
+{% endblock %}
+{% block body %}
+    <h1>
+        <div><strong>{{item.name}}</strong></div>
+    </h1>
+
+        <div>
+            <p>{{item.price}}</p>
+            <p>{{item.description}}</p>
+        </div>
+        <div> <a href="{% url 'shopapp:items-list' %}">back to item list</a></div>
+        <form action="{% url 'shopapp:create-checkout-session' item.id %}"
+          method="POST" >
+          {% csrf_token %}
+          <button type="submit" class="btn btn-primary">Checkout</button>
+        </form>
+{% endblock %}

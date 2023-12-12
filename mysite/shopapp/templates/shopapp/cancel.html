@@ -1,0 +1,11 @@
+{% extends 'shopapp/base.html' %}
+{% block title %} Cancel {% endblock %}
+{% block body %}
+<div class="alert alert-info" role="alert">
+  Forgot to add something to your cart?
+  <a
+      href="{% url 'shopapp:items-list' %}"
+      >Go to Products</a
+    >
+</div>
+{% endblock %}
