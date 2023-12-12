@@ -99,36 +99,9 @@
       <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/item-detail.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/items-list.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject_Django_Stripe/shopapp/templates/shopapp/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_Stripe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/templates/shopapp/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/templates/shopapp/cancel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/templates/shopapp/item-detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/templates/shopapp/items-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/templates/shopapp/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/shopapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,14 +129,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/soso/PycharmProjects/pythonProjectDjango_Stripe_Test"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/soso/PycharmProjects/pythonProject_Stripe&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_Stripe" />
